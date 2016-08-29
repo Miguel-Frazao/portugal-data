@@ -1,5 +1,5 @@
 # Portugal-data
-Data related to diferent aspects of Portugal
+Data related to diferent aspects of Portugal.
 
 Most of this files are acquired through python web crawler scripts.
 
