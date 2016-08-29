@@ -1,0 +1,411 @@
+[
+    {
+        "concelhos": [
+            "S\u00e3o Vicente",
+            "Calheta",
+            "C\u00e2mara de Lobos",
+            "Funchal",
+            "Machico",
+            "Ponta do Sol",
+            "Porto Moniz",
+            "Porto Santo",
+            "Ribeira Brava",
+            "Santa Cruz",
+            "Santana"
+        ],
+        "distrito": "Madeira"
+    },
+    {
+        "concelhos": [
+            "Alc\u00e1cer do Sal",
+            "Alcochete",
+            "Almada",
+            "Barreiro",
+            "Gr\u00e2ndola",
+            "Moita",
+            "Montijo",
+            "Palmela",
+            "Santiago do Cac\u00e9m",
+            "Seixal",
+            "Sesimbra",
+            "Set\u00fabal",
+            "Sines"
+        ],
+        "distrito": "Set\u00fabal"
+    },
+    {
+        "concelhos": [
+            "Aguiar da Beira",
+            "Almeida",
+            "Celorico da Beira",
+            "Figueira de Castelo Rodrigo",
+            "Fornos de Algodres",
+            "Gouveia",
+            "Guarda",
+            "Manteigas",
+            "M\u00eada",
+            "Pinhel",
+            "Sabugal",
+            "Seia",
+            "Trancoso",
+            "Vila Nova de Foz C\u00f4a"
+        ],
+        "distrito": "Guarda"
+    },
+    {
+        "concelhos": [
+            "Albufeira",
+            "Alcoutim",
+            "Aljezur",
+            "Castro Marim",
+            "Faro",
+            "Lagoa",
+            "Lagos",
+            "Loul\u00e9",
+            "Monchique",
+            "Olh\u00e3o",
+            "Portim\u00e3o",
+            "S\u00e3o Br\u00e1s de Alportel",
+            "Silves",
+            "Tavira",
+            "Vila do Bispo",
+            "Vila Real de Santo Ant\u00f3nio"
+        ],
+        "distrito": "Faro"
+    },
+    {
+        "concelhos": [
+            "Alenquer",
+            "Amadora",
+            "Arruda dos Vinhos",
+            "Azambuja",
+            "Cadaval",
+            "Cascais",
+            "Lisboa",
+            "Loures",
+            "Lourinh\u00e3",
+            "Mafra",
+            "Odivelas",
+            "Oeiras",
+            "Sintra",
+            "Sobral de Monte Agra\u00e7o",
+            "Torres Vedras",
+            "Vila Franca de Xira"
+        ],
+        "distrito": "Lisboa"
+    },
+    {
+        "concelhos": [
+            "Arganil",
+            "Cantanhede",
+            "Coimbra",
+            "Condeixa-a-Nova",
+            "Figueira da Foz",
+            "G\u00f3is",
+            "Lous\u00e3",
+            "Mira",
+            "Miranda do Corvo",
+            "Montemor-o-Velho",
+            "Oliveira do Hospital",
+            "Pampilhosa da Serra",
+            "Penacova",
+            "Penela",
+            "Soure",
+            "T\u00e1bua",
+            "Vila Nova de Poiares"
+        ],
+        "distrito": "Coimbra"
+    },
+    {
+        "concelhos": [
+            "Amares",
+            "Barcelos",
+            "Braga",
+            "Cabeceiras de Basto",
+            "Celorico de Basto",
+            "Esposende",
+            "Fafe",
+            "Guimar\u00e3es",
+            "P\u00f3voa de Lanhoso",
+            "Terras de Bouro",
+            "Vieira do Minho",
+            "Vila Nova de Famalic\u00e3o",
+            "Vila Verde",
+            "Vizela"
+        ],
+        "distrito": "Braga"
+    },
+    {
+        "concelhos": [
+            "Angra do Hero\u00edsmo",
+            "Calheta",
+            "Corvo",
+            "Horta",
+            "Lagoa",
+            "Lajes das Flores",
+            "Lajes do Pico",
+            "Madalena",
+            "Nordeste",
+            "Ponta Delgada",
+            "Povoa\u00e7\u00e3o",
+            "Praia da Vit\u00f3ria",
+            "Ribeira Grande",
+            "Santa Cruz da Graciosa",
+            "Santa Cruz das Flores",
+            "S\u00e3o Roque do Pico",
+            "Velas",
+            "Vila do Porto",
+            "Vila Franca do Campo"
+        ],
+        "distrito": "A\u00e7ores"
+    },
+    {
+        "concelhos": [
+            "Arcos de Valdevez",
+            "Caminha",
+            "Melga\u00e7o",
+            "Mon\u00e7\u00e3o",
+            "Paredes de Coura",
+            "Ponte da Barca",
+            "Ponte de Lima",
+            "Valen\u00e7a",
+            "Viana do Castelo",
+            "Vila Nova de Cerveira"
+        ],
+        "distrito": "Viana do Castelo"
+    },
+    {
+        "concelhos": [
+            "Aljustrel",
+            "Almod\u00f4var",
+            "Alvito",
+            "Barrancos",
+            "Beja",
+            "Castro Verde",
+            "Cuba",
+            "Ferreira do Alentejo",
+            "M\u00e9rtola",
+            "Moura",
+            "Odemira",
+            "Ourique",
+            "Serpa",
+            "Vidigueira"
+        ],
+        "distrito": "Beja"
+    },
+    {
+        "concelhos": [
+            "Alf\u00e2ndega da F\u00e9",
+            "Bragan\u00e7a",
+            "Carrazeda de Ansi\u00e3es",
+            "Freixo de Espada \u00e0 Cinta",
+            "Macedo de Cavaleiros",
+            "Miranda do Douro",
+            "Mirandela",
+            "Mogadouro",
+            "Torre de Moncorvo",
+            "Vila Flor",
+            "Vimioso",
+            "Vinhais"
+        ],
+        "distrito": "Bragan\u00e7a"
+    },
+    {
+        "concelhos": [
+            "Alcoba\u00e7a",
+            "Alvai\u00e1zere",
+            "Ansi\u00e3o",
+            "Batalha",
+            "Bombarral",
+            "Caldas da Rainha",
+            "Castanheira de Pera",
+            "Figueir\u00f3 dos Vinhos",
+            "Leiria",
+            "Marinha Grande",
+            "Nazar\u00e9",
+            "\u00d3bidos",
+            "Pedr\u00f3g\u00e3o Grande",
+            "Peniche",
+            "Pombal",
+            "Porto de M\u00f3s"
+        ],
+        "distrito": "Leiria"
+    },
+    {
+        "concelhos": [
+            "Alandroal",
+            "Arraiolos",
+            "Borba",
+            "Estremoz",
+            "\u00c9vora",
+            "Montemor-o-Novo",
+            "Mora",
+            "Mour\u00e3o",
+            "Oliven\u00e7a",
+            "Portel",
+            "Redondo",
+            "Reguengos de Monsaraz",
+            "Vendas Novas",
+            "Viana do Alentejo",
+            "Vila Vi\u00e7osa"
+        ],
+        "distrito": "\u00c9vora"
+    },
+    {
+        "concelhos": [
+            "Amarante",
+            "Bai\u00e3o",
+            "Felgueiras",
+            "Gondomar",
+            "Lousada",
+            "Maia",
+            "Marco de Canaveses",
+            "Matosinhos",
+            "Pa\u00e7os de Ferreira",
+            "Paredes",
+            "Penafiel",
+            "Porto",
+            "P\u00f3voa de Varzim",
+            "Santo Tirso",
+            "Trofa",
+            "Valongo",
+            "Vila do Conde",
+            "Vila Nova de Gaia"
+        ],
+        "distrito": "Porto"
+    },
+    {
+        "concelhos": [
+            "Alter do Ch\u00e3o",
+            "Arronches",
+            "Avis",
+            "Campo Maior",
+            "Castelo de Vide",
+            "Crato",
+            "Elvas",
+            "Fronteira",
+            "Gavi\u00e3o",
+            "Marv\u00e3o",
+            "Monforte",
+            "Nisa",
+            "Ponte de Sor",
+            "Portalegre",
+            "Sousel"
+        ],
+        "distrito": "Portalegre"
+    },
+    {
+        "concelhos": [
+            "\u00c1gueda",
+            "Albergaria-a-Velha",
+            "Anadia",
+            "Arouca",
+            "Aveiro",
+            "Castelo de Paiva",
+            "Espinho",
+            "Estarreja",
+            "\u00cd\u008dlhavo",
+            "Mealhada",
+            "Murtosa",
+            "Oliveira de Azem\u00e9is",
+            "Oliveira do Bairro",
+            "Ovar",
+            "Santa Maria da Feira",
+            "S\u00e3o Jo\u00e3o da Madeira",
+            "Sever do Vouga",
+            "Vagos",
+            "Vale de Cambra"
+        ],
+        "distrito": "Aveiro"
+    },
+    {
+        "concelhos": [
+            "Belmonte",
+            "Castelo Branco",
+            "Covilh\u00e3",
+            "Fund\u00e3o",
+            "Idanha-a-Nova",
+            "Oleiros",
+            "Penamacor",
+            "Proen\u00e7a-a-Nova",
+            "Sert\u00e3",
+            "Vila de Rei",
+            "Vila Velha de R\u00f3d\u00e3o"
+        ],
+        "distrito": "Castelo Branco"
+    },
+    {
+        "concelhos": [
+            "Alij\u00f3",
+            "Boticas",
+            "Chaves",
+            "Mes\u00e3o Frio",
+            "Mondim de Basto",
+            "Montalegre",
+            "Mur\u00e7a",
+            "Peso da R\u00e9gua",
+            "Ribeira de Pena",
+            "Sabrosa",
+            "Santa Marta de Penagui\u00e3o",
+            "Valpa\u00e7os",
+            "Vila Pouca de Aguiar",
+            "Vila Real"
+        ],
+        "distrito": "Vila Real"
+    },
+    {
+        "concelhos": [
+            "Armamar",
+            "Carregal do Sal",
+            "Castro Daire",
+            "Cinf\u00e3es",
+            "Lamego",
+            "Mangualde",
+            "Moimenta da Beira",
+            "Mort\u00e1gua",
+            "Nelas",
+            "Oliveira de Frades",
+            "Penalva do Castelo",
+            "Penedono",
+            "Resende",
+            "Santa Comba D\u00e3o",
+            "S\u00e3o Jo\u00e3o da Pesqueira",
+            "S\u00e3o Pedro do Sul",
+            "S\u00e1t\u00e3o",
+            "Sernancelhe",
+            "Tabua\u00e7o",
+            "Tarouca",
+            "Tondela",
+            "Vila Nova de Paiva",
+            "Viseu",
+            "Vouzela"
+        ],
+        "distrito": "Viseu"
+    },
+    {
+        "concelhos": [
+            "Abrantes",
+            "Alcanena",
+            "Almeirim",
+            "Alpiar\u00e7a",
+            "Benavente",
+            "Cartaxo",
+            "Chamusca",
+            "Const\u00e2ncia",
+            "Coruche",
+            "Entroncamento",
+            "Ferreira do Z\u00eazere",
+            "Goleg\u00e3",
+            "Ma\u00e7\u00e3o",
+            "Our\u00e9m",
+            "Rio Maior",
+            "Salvaterra de Magos",
+            "Santar\u00e9m",
+            "Sardoal",
+            "Tomar",
+            "Torres Novas",
+            "Vila Nova da Barquinha"
+        ],
+        "distrito": "Santar\u00e9m"
+    }
+]
